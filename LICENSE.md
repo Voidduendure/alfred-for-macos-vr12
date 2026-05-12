@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS service with updated Alfred for macOS Service | file-encryption + app-uninstaller. Featuring file-encryption and app-uninstaller, it's the best
 
 
 
